@@ -2,7 +2,7 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Ahmed Hany',
+    title: 'Amr Nabil',
     description:
       'I am a Senior Software Engineer with a strong commitment to continuous learning, exemplified by completing a 12-month Software Engineering program at ALX Africa. I work using the latest technology to build and improve software solutions. I use my deep knowledge and leadership skills to enhance our products and teach new engineers, ensuring we always achieve excellence.',
     siteUrl: 'https://ahmedhany.dev', // No trailing slash allowed!
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Ahmed Hany',
-        short_name: 'Ahmed Hany',
+        name: 'Amr Nabil',
+        short_name: 'Amr Nabil',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,

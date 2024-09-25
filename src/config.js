@@ -12,7 +12,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/dev-ahmedhany/',
+      url: 'https://www.linkedin.com/in/dev-amrnabil',
     },
     {
       name: 'Leetcode',

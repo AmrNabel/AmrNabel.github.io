@@ -59,16 +59,16 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Ahmed Hany.</h2>;
+  const two = <h2 className="big-heading">Amr Nabil.</h2>;
   const three = <h3 className="big-heading">I build things for the web.</h3>;
   const four = (
     <>
       <p>
-        I am a Senior Software Engineer with a strong commitment to continuous learning,
-        exemplified by completing a 12-month Software Engineering program at ALX Africa.
-        I work using the latest technology to build and improve software solutions.
-        I use my deep knowledge and leadership skills to enhance our products and teach new engineers,
-        ensuring we always achieve excellence.
+        I am a Senior Software Engineer with a strong commitment to continuous learning, exemplified
+        by completing a 12-month Software Engineering program at ALX Africa. I work using the latest
+        technology to build and improve software solutions. I use my deep knowledge and leadership
+        skills to enhance our products and teach new engineers, ensuring we always achieve
+        excellence.
       </p>
     </>
   );
