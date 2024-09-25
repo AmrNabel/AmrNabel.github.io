@@ -15,6 +15,7 @@ import {
   IconPlayStore,
   IconStar,
   IconUpwork,
+  IcomWhatsApp,
 } from '@components/icons';
 
 const Icon = ({ name }) => {
@@ -47,6 +48,8 @@ const Icon = ({ name }) => {
       return <IconStar />;
     case 'Upwork':
       return <IconUpwork />;
+    case 'Whatsapp':
+      return <IcomWhatsApp />;
     default:
       return <IconExternal />;
   }

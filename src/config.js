@@ -14,6 +14,10 @@ module.exports = {
       name: 'Upwork',
       url: 'https://www.upwork.com/freelancers/~017a14b91fc1c61c43',
     },
+    {
+      name: 'Whatsapp',
+      url: 'https://wa.me/01159263972',
+    },
   ],
 
   navLinks: [

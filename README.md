@@ -2,8 +2,8 @@
 
 made by [bchiang7](https://github.com/bchiang7)
 
-![demo](https://github.com/dev-ahmedhany/dev-ahmedhany.github.io/raw/master/src/images/logo.png)
-![demo](https://github.com/dev-ahmedhany/dev-ahmedhany.github.io/raw/master/static/og.png)
+![demo](https://github.com/AmrNabel/AmrNabel.github.io/raw/master/src/images/logo.png)
+![demo](https://github.com/AmrNabel/AmrNabel.github.io/raw/master/static/og.png)
 
 ## 🚨 Forking this repo (please read!)
 

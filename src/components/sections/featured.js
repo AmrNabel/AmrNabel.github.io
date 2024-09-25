@@ -367,6 +367,7 @@ const Featured = () => {
                     <h3 className="project-title">
                       <a href={external}>{title}</a>
                     </h3>
+                    <h3 className="project-title">(worked with Ahmed Hany)</h3>
 
                     <div
                       className="project-description"

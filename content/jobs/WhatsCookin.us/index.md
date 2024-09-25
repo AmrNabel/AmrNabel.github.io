@@ -1,9 +1,9 @@
 ---
-date: '2021-04-01'
+date: '2023-09-01'
 title: 'Front-End Team Lead'
-company: "WhatsCookin'"
+company: "WhatsCookin' (LinkedTrust Project)"
 location: 'Remotely, US'
-range: 'April 2021 - July 2022'
+range: 'Sep 2023 - Mar 2024'
 url: 'https://whatscookin.us/'
 ---
 

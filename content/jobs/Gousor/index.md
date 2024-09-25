@@ -1,12 +1,13 @@
 ---
-date: '2022-11-01'
-title: 'Software Engineer'
-company: 'Gousor'
-location: 'Remotely, KSA'
-range: 'Nov 2022 - jan 2023'
-url: 'https://gousor.com/'
+date: '2023-06-01'
+title: 'Frontend Developer'
+company: 'Atheel Contact center'
+location: 'Maadi, EG'
+range: 'Jun 2023 - Nov 2023'
+url: 'https://atheelcc.com'
 ---
 
-- Created wordpress commercial website
-- setup hosting at AWS Lightsail
-- Managed company's professional email at AWS work email
+- create the now feature on the main company site.
+- create a RTM app which is a real-time app using to get the current agent call, who is login, lesten or share thier calls, give permissions and roles, Dashboard for all transations.
+- creating internal chat app using Socket-io to enable the agent to chat with the customer and make rules for them .
+- working on the ERP app of the company to add featrues and make the changes as required.
