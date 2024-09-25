@@ -125,7 +125,16 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Next.js', 'Node.js', 'WordPress'];
+  const skills = [
+    'JavaScript (ES6+)',
+    'TypeScript',
+    'React',
+    'Redux',
+    'Next.js',
+    'material-UI',
+    'Node.js',
+    'WordPress',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,19 +144,14 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Amr and I enjoy creating things that live on the internet. My
-              interest in development started back in 2018 when I decided to try editing custom
-              windows phone themes! and lunched my first app at windows store.
-            </p>
-
-            <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://aswu.edu.eg/">a university</a>,{' '}
-              <a href="https://modareseen.com/">a start-up </a>, and{' '}
-              <a href="https://whatscookin.us/">a corporation</a>. My main focus these days is
-              building accessible, inclusive products and digital experiences at{' '}
-              <a href="https://www.upwork.com/freelancers/~017a14b91fc1c61c43">Upwork</a> for a
-              variety of clients.
+              Hello! My name is Amr, I am a passionate Frontend Developer with three years of
+              experience shaping digital experiences. My journey in tech has led me through three
+              innovative companies where I've honed my skills in creating intuitive, user-friendly
+              interfaces. I specialize in crafting responsive designs that enhance user engagement
+              and deliver seamless functionality across all platforms. My commitment to continuous
+              improvement and love for technology drive me to stay ahead of industry trends. I
+              thrive in collaborative environments, eager to contribute to team success through hard
+              work and creativity.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
