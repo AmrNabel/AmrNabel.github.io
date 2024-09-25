@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Amr Nabil',
     description:
-      'I am a Senior Software Engineer with a strong commitment to continuous learning, exemplified by completing a 12-month Software Engineering program at ALX Africa. I work using the latest technology to build and improve software solutions. I use my deep knowledge and leadership skills to enhance our products and teach new engineers, ensuring we always achieve excellence.',
+      'I am a Mid-Level Software Engineer with a strong commitment to continuous learning, exemplified by completing a 12-month Software Engineering program at ALX Africa. I work using the latest technology to build and improve software solutions. I use my deep knowledge and leadership skills to enhance our products and teach new engineers, ensuring we always achieve excellence.',
     siteUrl: 'https://ahmedhany.dev', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@dev_ahmedhany',

@@ -1,26 +1,18 @@
 module.exports = {
-  email: 'me@ahmedhany.dev',
+  email: 'amr.nabel3993@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/dev-ahmedhany',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/dev_ahmedhany',
+      url: 'https://github.com/AmrNabel',
     },
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/dev-amrnabil',
     },
     {
-      name: 'Leetcode',
-      url: 'https://leetcode.com/dev-ahmedhany/',
-    },
-    {
       name: 'Upwork',
-      url: 'https://www.upwork.com/freelancers/~0146c25c811065ad0a',
+      url: 'https://www.upwork.com/freelancers/~017a14b91fc1c61c43',
     },
   ],
 
