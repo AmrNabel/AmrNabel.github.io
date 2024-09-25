@@ -143,7 +143,7 @@ const About = () => {
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
               <a href="https://aswu.edu.eg/">a university</a>,{' '}
-              <a href="https://modareseen.com/">a start-up</a>, and{' '}
+              <a href="https://modareseen.com/">a start-up </a>, and{' '}
               <a href="https://whatscookin.us/">a corporation</a>. My main focus these days is
               building accessible, inclusive products and digital experiences at{' '}
               <a href="https://www.upwork.com/freelancers/~017a14b91fc1c61c43">Upwork</a> for a
