@@ -64,11 +64,10 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I am a Senior Software Engineer with a strong commitment to continuous learning, exemplified
-        by completing a 12-month Software Engineering program at ALX Africa. I work using the latest
-        technology to build and improve software solutions. I use my deep knowledge and leadership
-        skills to enhance our products and teach new engineers, ensuring we always achieve
-        excellence.
+        Senior Frontend Engineer with 4+ years of hands-on experience delivering scalable,
+        high-performance web applications and SaaS products using React, Next.js, and Firebase.
+        Proven ability to lead frontend architecture, improve UX, and collaborate cross-functionally
+        to ship features that drive business impact
       </p>
     </>
   );

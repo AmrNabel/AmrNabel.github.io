@@ -5,7 +5,7 @@ module.exports = {
     title: 'Amr Nabil',
     description:
       'I am a Mid-Level Software Engineer with a strong commitment to continuous learning, exemplified by completing a 12-month Software Engineering program at ALX Africa. I work using the latest technology to build and improve software solutions. I use my deep knowledge and leadership skills to enhance our products and teach new engineers, ensuring we always achieve excellence.',
-    siteUrl: 'AmrNabel.github.io',
+    siteUrl: 'https://amrnabel.github.io',
     image: '/og.png',
     twitterUsername: '',
   },

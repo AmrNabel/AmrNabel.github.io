@@ -3,12 +3,13 @@ date: '2024-03-01'
 title: 'Frontend Developer'
 company: 'Cooperation.org (T3 Project)'
 location: 'Remotely, US'
-range: 'Mar 2024 - Now'
+range: 'Oct 2024 - Now'
 url: 'http://cooperation.org/'
 ---
 
-- Fully functional website using Next.js and Material-UI v5.
-- using OBV3 for signing the credential.
-- use google drive to save the recommendations, credentials, comments and replays .
-- verity the credentials using verify plus.
-- Serverless app using google Drive & Wallets functions.
+- Developed a serverless web app with Next.js, integrated Google Drive API, optimized performance, and built custom wallet and recommendation systems for enhanced user experience.
+- Developed a high-performance serverless web app with Next.js & Material-UI, improving load times and reliability.
+- Integrated Google Drive API for efficient document management and storage optimization.
+  Implemented a custom wallet system supporting multiple credential formats for better user experience.
+  Optimized database queries and API calls, enhancing performance and reducing latency.
+  Built an automated recommendation system to improve user engagement and credential completion.

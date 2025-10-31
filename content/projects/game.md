@@ -4,7 +4,9 @@ title: 'game'
 github: ''
 external: 'https://magicmemorry.netlify.app'
 tech:
-  - JS
+  - React
+  - TypeScript
+  - MUI
 ios: false
 android: false
 company: ''

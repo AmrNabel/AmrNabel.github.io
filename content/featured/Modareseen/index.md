@@ -2,7 +2,7 @@
 date: '1'
 title: 'Modareseen App'
 cover: './demo.png'
-external: 'https://modareseen.com/'
+external: 'https://modarseen.com/'
 tech:
   - Next.js
   - Material-UI

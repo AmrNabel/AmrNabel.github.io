@@ -134,6 +134,14 @@ const About = () => {
     'material-UI',
     'Node.js',
     'WordPress',
+    'Firebase',
+    'Git',
+    'GitHub',
+    'MUI',
+    'Node JS',
+    'Express',
+    'MongoDB',
+    'AWS',
   ];
 
   return (
@@ -144,14 +152,14 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Amr, I am a passionate Frontend Developer with three years of
-              experience shaping digital experiences. My journey in tech has led me through three
-              innovative companies where I've honed my skills in creating intuitive, user-friendly
-              interfaces. I specialize in crafting responsive designs that enhance user engagement
-              and deliver seamless functionality across all platforms. My commitment to continuous
-              improvement and love for technology drive me to stay ahead of industry trends. I
-              thrive in collaborative environments, eager to contribute to team success through hard
-              work and creativity.
+              Hello! My name is Amr, I am a passionate Frontend Developer with 4 years of experience
+              shaping digital experiences. My journey in tech has led me through three innovative
+              companies where I've honed my skills in creating intuitive, user-friendly interfaces.
+              I specialize in crafting responsive designs that enhance user engagement and deliver
+              seamless functionality across all platforms. My commitment to continuous improvement
+              and love for technology drive me to stay ahead of industry trends. I thrive in
+              collaborative environments, eager to contribute to team success through hard work and
+              creativity.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

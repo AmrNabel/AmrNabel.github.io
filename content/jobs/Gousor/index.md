@@ -3,7 +3,7 @@ date: '2023-06-01'
 title: 'Frontend Developer'
 company: 'Atheel Contact center'
 location: 'Maadi, EG'
-range: 'Jun 2023 - Nov 2023'
+range: 'Jan 2023 - Apr 2024'
 url: 'https://atheelcc.com'
 ---
 
