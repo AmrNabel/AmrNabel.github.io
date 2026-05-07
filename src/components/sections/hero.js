@@ -64,10 +64,11 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        Senior Frontend Engineer with 4+ years of hands-on experience delivering scalable,
-        high-performance web applications and SaaS products using React, Next.js, and Firebase.
-        Proven ability to lead frontend architecture, improve UX, and collaborate cross-functionally
-        to ship features that drive business impact
+        I’m a Frontend Engineer with 4+ years of experience in TypeScript, React, and Next.js,
+        specializing in SSR/ISR, component architecture, and performance optimization. I’ve launched
+        products from 0 to 1, including a mobility platform serving 10K+ users and a
+        blockchain-based credentialing system, with a focus on scalable, maintainable frontend
+        systems aligned with business goals.
       </p>
     </>
   );

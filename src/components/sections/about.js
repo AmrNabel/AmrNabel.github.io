@@ -126,22 +126,18 @@ const About = () => {
   }, []);
 
   const skills = [
-    'JavaScript (ES6+)',
     'TypeScript',
     'React',
-    'Redux',
-    'Next.js',
-    'material-UI',
-    'Node.js',
-    'WordPress',
-    'Firebase',
-    'Git',
-    'GitHub',
+    'Next.js (SSR / ISR)',
+    'Redux Toolkit',
+    'Zustand',
     'MUI',
-    'Node JS',
-    'Express',
-    'MongoDB',
-    'AWS',
+    'Node.js / Express',
+    'GraphQL',
+    'Firebase',
+    'PostgreSQL / MongoDB',
+    'Jest / Cypress',
+    'CI/CD & Vercel',
   ];
 
   return (
@@ -152,14 +148,18 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Amr, I am a passionate Frontend Developer with 4 years of experience
-              shaping digital experiences. My journey in tech has led me through three innovative
-              companies where I've honed my skills in creating intuitive, user-friendly interfaces.
-              I specialize in crafting responsive designs that enhance user engagement and deliver
-              seamless functionality across all platforms. My commitment to continuous improvement
-              and love for technology drive me to stay ahead of industry trends. I thrive in
-              collaborative environments, eager to contribute to team success through hard work and
-              creativity.
+              Hello! I’m Amr, a Frontend Engineer based in Cairo with 4+ years of experience
+              building scalable web applications in TypeScript, React, and Next.js. I focus on
+              SSR/ISR rendering strategies, clean component architecture, and performance
+              optimization techniques like code splitting and lazy loading.
+            </p>
+
+            <p>
+              I’ve had the opportunity to ship products from 0 to 1 — most recently architecting a
+              6-module ERP ecosystem at <a href="https://scalicx.com">Scalicx</a>, building digital
+              identity and W3C Verifiable Credentials platforms with{' '}
+              <a href="https://cooperation.org">Cooperation.org</a>, and scaling a smart mobility
+              platform at AMK LLC to 10K+ users.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
