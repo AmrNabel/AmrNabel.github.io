@@ -2,7 +2,7 @@
 date: '2'
 title: 'Resume Author App'
 cover: './demo.png'
-external: 'resume.allskillscount.org'
+external: 'https://resume.allskillscount.org'
 tech:
   - Next.js
   - Material-UI
