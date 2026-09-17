@@ -1,6 +1,6 @@
 ---
 date: '2024-03-01'
-title: 'Frontend Engineer'
+title: 'Senior Frontend Engineer'
 company: 'Cooperation.org'
 location: 'Tucson, USA (Remote)'
 range: 'Mar 2024 - Present'

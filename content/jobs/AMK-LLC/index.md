@@ -1,9 +1,9 @@
 ---
-date: '2024-02-01'
+date: '2024-10-01'
 title: 'Senior Frontend Engineer'
 company: 'AMK LLC'
 location: 'Cairo, EG'
-range: 'Feb 2024 - Jul 2025'
+range: 'Oct 2024 - Jul 2025'
 url: 'https://amkllc.com'
 ---
 

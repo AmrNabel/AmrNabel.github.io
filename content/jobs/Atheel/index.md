@@ -1,9 +1,9 @@
 ---
-date: '2023-01-01'
+date: '2022-01-01'
 title: 'Frontend Developer'
 company: 'Atheel Contact Center'
 location: 'Cairo, EG'
-range: 'Jan 2023 - Jan 2024'
+range: 'Jan 2022 - Dec 2023'
 url: 'https://atheelcc.com'
 ---
 

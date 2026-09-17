@@ -64,11 +64,10 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a Frontend Engineer with 4+ years of experience in TypeScript, React, and Next.js,
-        specializing in SSR/ISR, component architecture, and performance optimization. I’ve launched
-        products from 0 to 1, including a mobility platform serving 10K+ users and a
-        blockchain-based credentialing system, with a focus on scalable, maintainable frontend
-        systems aligned with business goals.
+        I’m a Senior Full-Stack Engineer with 5+ years of experience architecting high-performance
+        web applications, ERP ecosystems, and B2B/e-commerce platforms across React, Next.js,
+        TypeScript, and Node.js (NestJS, Hono). I lead platforms end to end, from architecture
+        through production, for clients in the Saudi and GCC markets.
       </p>
     </>
   );

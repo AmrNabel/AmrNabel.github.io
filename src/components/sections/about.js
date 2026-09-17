@@ -129,15 +129,15 @@ const About = () => {
     'TypeScript',
     'React',
     'Next.js (SSR / ISR)',
-    'Redux Toolkit',
-    'Zustand',
-    'MUI',
-    'Node.js / Express',
-    'GraphQL',
-    'Firebase',
+    'Node.js (NestJS / Hono)',
+    'Redux Toolkit / Zustand',
+    'TanStack Query',
+    'Tailwind CSS / MUI',
     'PostgreSQL / MongoDB',
-    'Jest / Cypress',
-    'CI/CD & Vercel',
+    'Prisma / TypeORM',
+    'Redis / Elasticsearch',
+    'Docker & CI/CD',
+    'Vitest / Playwright',
   ];
 
   return (
@@ -148,18 +148,19 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I’m Amr, a Frontend Engineer based in Cairo with 4+ years of experience
-              building scalable web applications in TypeScript, React, and Next.js. I focus on
-              SSR/ISR rendering strategies, clean component architecture, and performance
-              optimization techniques like code splitting and lazy loading.
+              Hello! I’m Amr, a Senior Full-Stack Engineer based in Cairo with 5+ years of
+              experience architecting high-performance web applications, ERP ecosystems, and
+              B2B/e-commerce platforms in TypeScript, React, Next.js, and Node.js (NestJS, Hono),
+              with a track record of leading platforms end to end for the Saudi and GCC markets.
             </p>
 
             <p>
-              I’ve had the opportunity to ship products from 0 to 1 — most recently architecting a
-              6-module ERP ecosystem at <a href="https://scalicx.com">Scalicx</a>, building digital
-              identity and W3C Verifiable Credentials platforms with{' '}
-              <a href="https://cooperation.org">Cooperation.org</a>, and scaling a smart mobility
-              platform at AMK LLC to 10K+ users.
+              Most recently I built Asas Gate, a bilingual Arabic-first B2B marketplace, and
+              migrated ASAS Online onto a custom Next.js + Hono stack with ZATCA Phase 2
+              e-invoicing. Before that I architected a 6-module ERP ecosystem at{' '}
+              <a href="https://scalicx.com">Scalicx</a>, built W3C Verifiable Credentials platforms
+              with <a href="https://cooperation.org">Cooperation.org</a>, and scaled a smart
+              mobility platform at AMK LLC to 10K+ users.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
