@@ -2,7 +2,7 @@
 date: '2026-01-01'
 title: 'Mentra'
 github: ''
-external: 'https://venturescalor.com'
+external: 'https://mentara.venturescalor.com'
 tech:
   - Next.js
   - NestJS
